@@ -1,2 +1,2 @@
 # Cek-ccminer
-Cek ccminer running well
+Cek ccminer running
