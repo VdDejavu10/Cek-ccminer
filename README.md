@@ -4,7 +4,7 @@ Cek ccminer running
 
 Download file
 
-wget [https://raw.githubusercontent.com/VdDejavu10/Auto-Reboot/refs/heads/main/auto_reboot.sh](https://raw.githubusercontent.com/VdDejavu10/Cek-ccminer/refs/heads/main/run_cek.sh)
+wget https://raw.githubusercontent.com/VdDejavu10/Auto-Reboot/refs/heads/main/auto_reboot.sh
 
 chmod +x auto_reboot.sh
 
