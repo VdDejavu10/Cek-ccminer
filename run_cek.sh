@@ -7,7 +7,4 @@ then
 else
     echo "$DATE $SERVICE stopped" >> run_cek.log
     bash /root/ccminer/run > /root/ccminer/miner.log 2>&1
-    # uncomment to start nginx if stopped
-    # systemctl start nginx
-    # mail  
 fi
