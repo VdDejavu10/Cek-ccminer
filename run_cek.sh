@@ -11,4 +11,5 @@ else
     echo "$DATE $SERVICE started" >> run_cek.log
     echo "$DATE $SERVICE check again" >> run_cek.log
     bash /root/run_cek.sh
+    exit 0
 fi
